@@ -1,5 +1,5 @@
 # Web-Scraping
-The project involves extracting specific data from an HTML webpage using Python and saving it into a structured JSON file and CSV file.
+The project extract specific data from an HTML webpage using Python and saving it into a JSON file and CSV file.
 The extracted data includes hyperlinks, video links, and book card information (title, price, stock availability and button text).
 
 # Files-Contained
