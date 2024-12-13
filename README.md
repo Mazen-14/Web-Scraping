@@ -1,6 +1,6 @@
 # Web-Scraping
-The project extract specific data from an HTML webpage using Python and saving it into a JSON file and CSV file.
-The extracted data includes hyperlinks, video links, and book card information (title, price, stock availability and button text).
+- The project extract specific data from an HTML webpage using Python and saving it into a JSON file and CSV file.
+- The extracted data includes hyperlinks, video links, and book card information (title, price, stock availability and button text).
 
 # Files-Contained
 - webscraping.ipynb: Jupyter Notebook for all the 6 questions codes
